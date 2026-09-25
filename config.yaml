@@ -14,8 +14,10 @@ jobname: 1deg_jra55_iaf
 # Sync options for automatically copying data from ephemeral scratch space to 
 # longer term storage
 sync:
-    enable: False # set base_path below and change to true
-    base_path: null # Set to location on /g/data or a remote server and path (rsync syntax)
+    enable: true
+    base_path: /g/data/ol01/outputs/access-om2-1deg
+    restarts: true
+    exclude_uncollated: false
 
 # Modules for loading model executables
 modules:
