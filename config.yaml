@@ -17,7 +17,7 @@ sync:
     enable: true
     base_path: /g/data/ol01/outputs/access-om2-1deg
     restarts: true
-    exclude_uncollated: false
+    exclude_uncollated: true
 
 # Modules for loading model executables
 modules:
@@ -100,7 +100,7 @@ collate:
 # Misc
 runlog: true
 stacksize: unlimited
-restart_freq: 5YS
+restart_freq: 100YS
 mpi:
   flags:
     - --mca io ompio --mca io_ompio_num_aggregators 1

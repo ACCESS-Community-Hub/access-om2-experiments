@@ -61,149 +61,29 @@ ACCESS-OM2
 "access-om2.mom5.3d.age_global.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
 "ocean_model", "age_global", "age_global", "access-om2.mom5.3d.age_global.1mon.mean.%4yr", "all", "average", "none", 2
 
-"access-om2.mom5.3d.buoyfreq2_wt.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "buoyfreq2_wt", "buoyfreq2_wt", "access-om2.mom5.3d.buoyfreq2_wt.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.diff_cbt_t.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "diff_cbt_t", "diff_cbt_t", "access-om2.mom5.3d.diff_cbt_t.1mon.mean.%4yr", "all", "average", "none", 2
-
 "access-om2.mom5.3d.dzt.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
 "ocean_model", "dzt", "dzt", "access-om2.mom5.3d.dzt.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.pot_rho_0.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "pot_rho_0", "pot_rho_0", "access-om2.mom5.3d.pot_rho_0.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.pot_rho_2.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "pot_rho_2", "pot_rho_2", "access-om2.mom5.3d.pot_rho_2.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.pot_temp.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "pot_temp", "pot_temp", "access-om2.mom5.3d.pot_temp.1mon.mean.%4yr", "all", "average", "none", 2
 
 "access-om2.mom5.3d.salt.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
 "ocean_model", "salt", "salt", "access-om2.mom5.3d.salt.1mon.mean.%4yr", "all", "average", "none", 2
 
-"access-om2.mom5.3d.temp_xflux_adv.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "temp_xflux_adv", "temp_xflux_adv", "access-om2.mom5.3d.temp_xflux_adv.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.temp_yflux_adv.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "temp_yflux_adv", "temp_yflux_adv", "access-om2.mom5.3d.temp_yflux_adv.1mon.mean.%4yr", "all", "average", "none", 2
-
 "access-om2.mom5.3d.temp.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
 "ocean_model", "temp", "temp", "access-om2.mom5.3d.temp.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.tx_trans.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "tx_trans", "tx_trans", "access-om2.mom5.3d.tx_trans.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.ty_trans_gm.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "ty_trans_gm", "ty_trans_gm", "access-om2.mom5.3d.ty_trans_gm.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.ty_trans_nrho_submeso.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "ty_trans_nrho_submeso", "ty_trans_nrho_submeso", "access-om2.mom5.3d.ty_trans_nrho_submeso.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.ty_trans_rho_gm.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "ty_trans_rho_gm", "ty_trans_rho_gm", "access-om2.mom5.3d.ty_trans_rho_gm.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.ty_trans_rho.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "ty_trans_rho", "ty_trans_rho", "access-om2.mom5.3d.ty_trans_rho.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.ty_trans_submeso.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "ty_trans_submeso", "ty_trans_submeso", "access-om2.mom5.3d.ty_trans_submeso.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.ty_trans.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "ty_trans", "ty_trans", "access-om2.mom5.3d.ty_trans.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.u.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "u", "u", "access-om2.mom5.3d.u.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.v.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "v", "v", "access-om2.mom5.3d.v.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.vert_pv.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "vert_pv", "vert_pv", "access-om2.mom5.3d.vert_pv.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.wt.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "wt", "wt", "access-om2.mom5.3d.wt.1mon.mean.%4yr", "all", "average", "none", 2
 
 
 # monthly 3d squared fields
 
-"access-om2.mom5.3d.u.1mon.pow02.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "u", "u", "access-om2.mom5.3d.u.1mon.pow02.%4yr", "all", "pow02", "none", 2
-
-"access-om2.mom5.3d.v.1mon.pow02.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "v", "v", "access-om2.mom5.3d.v.1mon.pow02.%4yr", "all", "pow02", "none", 2
-
 
 # monthly 2d fields
 
-"access-om2.mom5.2d.agm.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "agm", "agm", "access-om2.mom5.2d.agm.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.aredi.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "aredi", "aredi", "access-om2.mom5.2d.aredi.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.bmf_u.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "bmf_u", "bmf_u", "access-om2.mom5.2d.bmf_u.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.bmf_v.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "bmf_v", "bmf_v", "access-om2.mom5.2d.bmf_v.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.ekman_we.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "ekman_we", "ekman_we", "access-om2.mom5.2d.ekman_we.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.eta_nonbouss.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "eta_nonbouss", "eta_nonbouss", "access-om2.mom5.2d.eta_nonbouss.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.evap_heat.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "evap_heat", "evap_heat", "access-om2.mom5.2d.evap_heat.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.evap.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "evap", "evap", "access-om2.mom5.2d.evap.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.fprec_melt_heat.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "fprec_melt_heat", "fprec_melt_heat", "access-om2.mom5.2d.fprec_melt_heat.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.fprec.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "fprec", "fprec", "access-om2.mom5.2d.fprec.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.frazil_3d_int_z.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "frazil_3d_int_z", "frazil_3d_int_z", "access-om2.mom5.2d.frazil_3d_int_z.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.lprec.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "lprec", "lprec", "access-om2.mom5.2d.lprec.1mon.mean.%4yr", "all", "average", "none", 2
-
 "access-om2.mom5.2d.lw_heat.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
 "ocean_model", "lw_heat", "lw_heat", "access-om2.mom5.2d.lw_heat.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.melt.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "melt", "melt", "access-om2.mom5.2d.melt.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.mh_flux.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "mh_flux", "mh_flux", "access-om2.mom5.2d.mh_flux.1mon.mean.%4yr", "all", "average", "none", 2
 
 "access-om2.mom5.2d.mld.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
 "ocean_model", "mld", "mld", "access-om2.mom5.2d.mld.1mon.mean.%4yr", "all", "average", "none", 2
 
 "access-om2.mom5.2d.net_sfc_heating.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
 "ocean_model", "net_sfc_heating", "net_sfc_heating", "access-om2.mom5.2d.net_sfc_heating.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.pbot_t.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "pbot_t", "pbot_t", "access-om2.mom5.2d.pbot_t.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.pme_net.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "pme_net", "pme_net", "access-om2.mom5.2d.pme_net.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.pme_river.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "pme_river", "pme_river", "access-om2.mom5.2d.pme_river.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.river.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "river", "river", "access-om2.mom5.2d.river.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.runoff.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "runoff", "runoff", "access-om2.mom5.2d.runoff.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.sea_level_sq.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "sea_level_sq", "sea_level_sq", "access-om2.mom5.2d.sea_level_sq.1mon.mean.%4yr", "all", "average", "none", 2
 
 "access-om2.mom5.2d.sea_level.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
 "ocean_model", "sea_level", "sea_level", "access-om2.mom5.2d.sea_level.1mon.mean.%4yr", "all", "average", "none", 2
@@ -214,140 +94,20 @@ ACCESS-OM2
 "access-om2.mom5.2d.sfc_hflux_coupler.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
 "ocean_model", "sfc_hflux_coupler", "sfc_hflux_coupler", "access-om2.mom5.2d.sfc_hflux_coupler.1mon.mean.%4yr", "all", "average", "none", 2
 
-"access-om2.mom5.2d.sfc_hflux_from_runoff.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "sfc_hflux_from_runoff", "sfc_hflux_from_runoff", "access-om2.mom5.2d.sfc_hflux_from_runoff.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.sfc_hflux_pme.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "sfc_hflux_pme", "sfc_hflux_pme", "access-om2.mom5.2d.sfc_hflux_pme.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.sfc_salt_flux_coupler.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "sfc_salt_flux_coupler", "sfc_salt_flux_coupler", "access-om2.mom5.2d.sfc_salt_flux_coupler.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.sfc_salt_flux_ice.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "sfc_salt_flux_ice", "sfc_salt_flux_ice", "access-om2.mom5.2d.sfc_salt_flux_ice.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.sfc_salt_flux_restore.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "sfc_salt_flux_restore", "sfc_salt_flux_restore", "access-om2.mom5.2d.sfc_salt_flux_restore.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.surface_pot_temp.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "surface_pot_temp", "surface_pot_temp", "access-om2.mom5.2d.surface_pot_temp.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.surface_salt.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "surface_salt", "surface_salt", "access-om2.mom5.2d.surface_salt.1mon.mean.%4yr", "all", "average", "none", 2
-
 "access-om2.mom5.2d.swflx.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
 "ocean_model", "swflx", "swflx", "access-om2.mom5.2d.swflx.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.tau_x.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "tau_x", "tau_x", "access-om2.mom5.2d.tau_x.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.tau_y.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "tau_y", "tau_y", "access-om2.mom5.2d.tau_y.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.temp_int_rhodz.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "temp_int_rhodz", "temp_int_rhodz", "access-om2.mom5.2d.temp_int_rhodz.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.temp_xflux_adv_int_z.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "temp_xflux_adv_int_z", "temp_xflux_adv_int_z", "access-om2.mom5.2d.temp_xflux_adv_int_z.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.temp_xflux_gm_int_z.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "temp_xflux_gm_int_z", "temp_xflux_gm_int_z", "access-om2.mom5.2d.temp_xflux_gm_int_z.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.temp_xflux_ndiffuse_int_z.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "temp_xflux_ndiffuse_int_z", "temp_xflux_ndiffuse_int_z", "access-om2.mom5.2d.temp_xflux_ndiffuse_int_z.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.temp_xflux_submeso_int_z.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "temp_xflux_submeso_int_z", "temp_xflux_submeso_int_z", "access-om2.mom5.2d.temp_xflux_submeso_int_z.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.temp_yflux_adv_int_z.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "temp_yflux_adv_int_z", "temp_yflux_adv_int_z", "access-om2.mom5.2d.temp_yflux_adv_int_z.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.temp_yflux_gm_int_z.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "temp_yflux_gm_int_z", "temp_yflux_gm_int_z", "access-om2.mom5.2d.temp_yflux_gm_int_z.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.temp_yflux_ndiffuse_int_z.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "temp_yflux_ndiffuse_int_z", "temp_yflux_ndiffuse_int_z", "access-om2.mom5.2d.temp_yflux_ndiffuse_int_z.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.temp_yflux_submeso_int_z.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "temp_yflux_submeso_int_z", "temp_yflux_submeso_int_z", "access-om2.mom5.2d.temp_yflux_submeso_int_z.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.tx_trans_int_z.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "tx_trans_int_z", "tx_trans_int_z", "access-om2.mom5.2d.tx_trans_int_z.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.ty_trans_int_z.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "ty_trans_int_z", "ty_trans_int_z", "access-om2.mom5.2d.ty_trans_int_z.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.wfiform.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "wfiform", "wfiform", "access-om2.mom5.2d.wfiform.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.wfimelt.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "wfimelt", "wfimelt", "access-om2.mom5.2d.wfimelt.1mon.mean.%4yr", "all", "average", "none", 2
 
 
 # monthly 2d fields with different reduction methods
 
-"access-om2.mom5.2d.mld.1mon.max.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "mld", "mld", "access-om2.mom5.2d.mld.1mon.max.%4yr", "all", "max", "none", 2
-
-"access-om2.mom5.2d.surface_pot_temp.1mon.min.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "surface_pot_temp", "surface_pot_temp", "access-om2.mom5.2d.surface_pot_temp.1mon.min.%4yr", "all", "min", "none", 2
-
 
 # daily 2d fields
-
-"access-om2.mom5.2d.bottom_temp.1day.mean.%4yr", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "bottom_temp", "bottom_temp", "access-om2.mom5.2d.bottom_temp.1day.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.frazil_3d_int_z.1day.mean.%4yr", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "frazil_3d_int_z", "frazil_3d_int_z", "access-om2.mom5.2d.frazil_3d_int_z.1day.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.mld.1day.mean.%4yr", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "mld", "mld", "access-om2.mom5.2d.mld.1day.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.pme_river.1day.mean.%4yr", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "pme_river", "pme_river", "access-om2.mom5.2d.pme_river.1day.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.sea_level.1day.mean.%4yr", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "sea_level", "sea_level", "access-om2.mom5.2d.sea_level.1day.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.sfc_hflux_coupler.1day.mean.%4yr", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "sfc_hflux_coupler", "sfc_hflux_coupler", "access-om2.mom5.2d.sfc_hflux_coupler.1day.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.sfc_hflux_from_runoff.1day.mean.%4yr", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "sfc_hflux_from_runoff", "sfc_hflux_from_runoff", "access-om2.mom5.2d.sfc_hflux_from_runoff.1day.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.sfc_hflux_pme.1day.mean.%4yr", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "sfc_hflux_pme", "sfc_hflux_pme", "access-om2.mom5.2d.sfc_hflux_pme.1day.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.surface_pot_temp.1day.mean.%4yr", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "surface_pot_temp", "surface_pot_temp", "access-om2.mom5.2d.surface_pot_temp.1day.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.surface_salt.1day.mean.%4yr", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "surface_salt", "surface_salt", "access-om2.mom5.2d.surface_salt.1day.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.usurf.1day.mean.%4yr", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "usurf", "usurf", "access-om2.mom5.2d.usurf.1day.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.vsurf.1day.mean.%4yr", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "vsurf", "vsurf", "access-om2.mom5.2d.vsurf.1day.mean.%4yr", "all", "average", "none", 2
 
 
 # daily 2d maximum fields
 
-"access-om2.mom5.2d.bottom_temp.1day.max.%4yr", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "bottom_temp", "bottom_temp", "access-om2.mom5.2d.bottom_temp.1day.max.%4yr", "all", "max", "none", 2
-
-"access-om2.mom5.2d.sea_level.1day.max.%4yr", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "sea_level", "sea_level", "access-om2.mom5.2d.sea_level.1day.max.%4yr", "all", "max", "none", 2
-
-"access-om2.mom5.2d.surface_pot_temp.1day.max.%4yr", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "surface_pot_temp", "surface_pot_temp", "access-om2.mom5.2d.surface_pot_temp.1day.max.%4yr", "all", "max", "none", 2
-
 
 # daily 2d minimum fields
-
-"access-om2.mom5.2d.surface_pot_temp.1day.min.%4yr", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "surface_pot_temp", "surface_pot_temp", "access-om2.mom5.2d.surface_pot_temp.1day.min.%4yr", "all", "min", "none", 2
 
 
 # monthly scalar timeseries
@@ -436,36 +196,6 @@ ACCESS-OM2
 
 # monthly 2d prognostic BGC surface fields
 
-"access-om2.mom5.2d.surface_alk.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "surface_alk", "surface_alk", "access-om2.mom5.2d.surface_alk.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.surface_caco3.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "surface_caco3", "surface_caco3", "access-om2.mom5.2d.surface_caco3.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.surface_det.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "surface_det", "surface_det", "access-om2.mom5.2d.surface_det.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.surface_dic.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "surface_dic", "surface_dic", "access-om2.mom5.2d.surface_dic.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.surface_fe.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "surface_fe", "surface_fe", "access-om2.mom5.2d.surface_fe.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.surface_no3.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "surface_no3", "surface_no3", "access-om2.mom5.2d.surface_no3.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.surface_o2.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "surface_o2", "surface_o2", "access-om2.mom5.2d.surface_o2.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.surface_phy.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "surface_phy", "surface_phy", "access-om2.mom5.2d.surface_phy.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.surface_pchl.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "surface_pchl", "surface_pchl", "access-om2.mom5.2d.surface_pchl.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.2d.surface_zoo.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"ocean_model", "surface_zoo", "surface_zoo", "access-om2.mom5.2d.surface_zoo.1mon.mean.%4yr", "all", "average", "none", 2
-
 
 # monthly scalar prognostic BGC fields
 "ocean_model", "alk_global_ave", "alk_global_ave", "access-om2.mom5.scalar.1mon.mean.%4yr", "all", "average", "none", 1
@@ -488,9 +218,6 @@ ACCESS-OM2
 "access-om2.mom5.3d.zsp3d.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
 "generic_wombatlite", "zsp3d", "zsp3d", "access-om2.mom5.3d.zsp3d.1mon.mean.%4yr", "all", "average", "none", 2
 
-"access-om2.mom5.3d.radbio.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"generic_wombatlite", "radbio", "radbio", "access-om2.mom5.3d.radbio.1mon.mean.%4yr", "all", "average", "none", 2
-
 "access-om2.mom5.3d.phy_mu.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
 "generic_wombatlite", "phy_mu", "phy_mu", "access-om2.mom5.3d.phy_mu.1mon.mean.%4yr", "all", "average", "none", 2
 
@@ -503,27 +230,6 @@ ACCESS-OM2
 "access-om2.mom5.3d.phy_lfer.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
 "generic_wombatlite", "phy_lfer", "phy_lfer", "access-om2.mom5.3d.phy_lfer.1mon.mean.%4yr", "all", "average", "none", 2
 
-"access-om2.mom5.3d.phy_dfeupt.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"generic_wombatlite", "phy_dfeupt", "phy_dfeupt", "access-om2.mom5.3d.phy_dfeupt.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.phygrow.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"generic_wombatlite", "phygrow", "phygrow", "access-om2.mom5.3d.phygrow.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.phymorl.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"generic_wombatlite", "phymorl", "phymorl", "access-om2.mom5.3d.phymorl.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.phymorq.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"generic_wombatlite", "phymorq", "phymorq", "access-om2.mom5.3d.phymorq.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.pchl_mu.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"generic_wombatlite", "pchl_mu", "pchl_mu", "access-om2.mom5.3d.pchl_mu.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.fesources.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"generic_wombatlite", "fesources", "fesources", "access-om2.mom5.3d.fesources.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.fesinks.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"generic_wombatlite", "fesinks", "fesinks", "access-om2.mom5.3d.fesinks.1mon.mean.%4yr", "all", "average", "none", 2
-
 "access-om2.mom5.3d.htotal.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
 "generic_wombatlite", "htotal", "htotal", "access-om2.mom5.3d.htotal.1mon.mean.%4yr", "all", "average", "none", 2
 
@@ -533,26 +239,8 @@ ACCESS-OM2
 "access-om2.mom5.3d.omega_cal.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
 "generic_wombatlite", "omega_cal", "omega_cal", "access-om2.mom5.3d.omega_cal.1mon.mean.%4yr", "all", "average", "none", 2
 
-"access-om2.mom5.3d.pic2poc.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"generic_wombatlite", "pic2poc", "pic2poc", "access-om2.mom5.3d.pic2poc.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.zooeps.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"generic_wombatlite", "zooeps", "zooeps", "access-om2.mom5.3d.zooeps.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.zoograzphy.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"generic_wombatlite", "zoograzphy", "zoograzphy", "access-om2.mom5.3d.zoograzphy.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.zoograzdet.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"generic_wombatlite", "zoograzdet", "zoograzdet", "access-om2.mom5.3d.zoograzdet.1mon.mean.%4yr", "all", "average", "none", 2
-
 "access-om2.mom5.3d.detremi.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
 "generic_wombatlite", "detremi", "detremi", "access-om2.mom5.3d.detremi.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.det_vmove.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"generic_wombatlite", "det_vmove", "det_vmove", "access-om2.mom5.3d.det_vmove.1mon.mean.%4yr", "all", "average", "none", 2
-
-"access-om2.mom5.3d.caco3_vmove.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
-"generic_wombatlite", "caco3_vmove", "caco3_vmove", "access-om2.mom5.3d.caco3_vmove.1mon.mean.%4yr", "all", "average", "none", 2
 
 
 # monthly 2d diagnostic BGC fields
